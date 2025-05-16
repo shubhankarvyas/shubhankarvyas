@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Final-year **IoT Engineering Student**
+- 🎓 Pre-Final-year **IoT Engineering Student**
 - 💡 Passionate about combining **AI + IoT + Web** to solve real-world problems
 - 🔬 Exploring **LLMs, GenAI, and Conversational AI**
 - 🛠️ Building:
