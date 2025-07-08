@@ -27,9 +27,11 @@
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
-### ☁️ Cloud & AI  
+### ☁️ Cloud, AI & CI/CD  
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![Vertex AI](https://img.shields.io/badge/VertexAI-FF6F00?style=flat&logo=google&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Azure Pipelines](https://img.shields.io/badge/Azure%20Pipelines-2560E0?style=flat&logo=azure-pipelines&logoColor=white)
 ![OpenRouter](https://img.shields.io/badge/OpenRouter-black?style=flat&logo=ghost&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-FF6A00?style=flat&logo=n8n&logoColor=white)
 
@@ -44,6 +46,7 @@
 ## 🚀 Current Focus
 
 - 🧠 Building **AI Agent Workflows** using n8n + OpenRouter + Supabase
+- 🔄 Setting up **Azure Pipelines** for end-to-end CI/CD deployment
 - 🔎 Implementing **RAG pipelines** for better context-based answers
 - 🎙️ Creating **Conversational AI Voicebots** using GCP Text-to-Speech
 - ✍️ Sharing knowledge through **technical blogs & open source**
@@ -53,7 +56,7 @@
 ## 🏆 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhankarvyas&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhankarvyas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhankarvyas&theme=tokyonight" height="165" />
 </p>
 
@@ -84,7 +87,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shubhankarvyas02&label=Profile+Views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=shubhankarvyas&label=Profile+Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 <p align="center"><em>“The best way to predict the future is to invent it.” – Alan Kay</em></p>
